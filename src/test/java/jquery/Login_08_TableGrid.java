@@ -24,7 +24,7 @@ public class Login_08_TableGrid extends BaseTest {
 
             this.urlPath = urlPath;
 
-            System.out.println("Check pull request");
+            System.out.println("This looks good and Im in development mode");
         }
 
 //        @Test
