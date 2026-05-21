@@ -23,6 +23,8 @@ public class Login_08_TableGrid extends BaseTest {
             driver = getBrowserDriver(browserName, urlPath);
 
             this.urlPath = urlPath;
+
+            System.out.println("Check pull request");
         }
 
 //        @Test
