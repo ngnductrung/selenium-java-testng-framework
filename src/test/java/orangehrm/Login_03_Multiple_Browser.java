@@ -12,19 +12,39 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+import pageObjects.PageGenerator;
+import pageObjects.orangeHRM.AddEmployeePageObject;
+import pageObjects.orangeHRM.DashboardPageObject;
+import pageObjects.orangeHRM.EmployeeListPageObject;
+import pageObjects.orangeHRM.LoginPageObject;
+import pageObjects.orangeHRM.editNavigation.ContactDetailPageObject;
+import pageObjects.orangeHRM.editNavigation.DependentsPageObject;
+import pageObjects.orangeHRM.editNavigation.JobPageObject;
+import pageObjects.orangeHRM.editNavigation.PersonalDetailPageObject;
+
+import java.io.IOException;
+import java.util.Random;
 
 public class Login_03_Multiple_Browser extends BaseTest {
     BasePage basePage;
     WebDriver driver;
     String urlPath;
+    String adminUsername, adminPassword, userFirstName, userLastName;
 
-        @Parameters({"browserName", "urlPath"})
-        @BeforeClass
-        public void beforeClass(String browserName, String urlPath){
-            basePage = BasePage.getInstance();
-            this.urlPath = urlPath;
-            driver = getBrowserDriver(browserName, urlPath);
-        }
+    @Parameters({"operatingSystem", "browserName", "urlPath"})
+    @BeforeClass
+    public void beforeClass(String operatingSystem, String browserName, String urlPath) throws IOException {
+        this.urlPath = urlPath;
+        driver = getBrowserDriver(operatingSystem, browserName, urlPath);
+
+        adminUsername = "raphadmin";
+        adminPassword = "UIOjkl123!@#";
+
+        userFirstName = "Raph";
+        userLastName = "Wreck-it" + new Random().nextInt(9999);
+
+        loginPage = PageGenerator.getPage(LoginPageObject.class, driver);
+    }
 
         @Test
         public void Empty(){
@@ -42,6 +62,16 @@ public class Login_03_Multiple_Browser extends BaseTest {
         public void afterClass(){
             driver.quit();
         }
+
+    private LoginPageObject loginPage;
+    private DashboardPageObject dashboardPage;
+    private EmployeeListPageObject employeeListPage;
+    private AddEmployeePageObject addEmployeePage;
+    private PersonalDetailPageObject personalDetailPage;
+    private String employeeID;
+    private ContactDetailPageObject contactDetailPage;
+    private JobPageObject jobPage;
+    private DependentsPageObject dependentsPage;
     }
 
 

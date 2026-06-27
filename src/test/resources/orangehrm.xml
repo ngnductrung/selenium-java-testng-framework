@@ -6,6 +6,7 @@
         <listener class-name="listeners.extentReport.ExtentReportManager"></listener>
     </listeners>
 
+    <parameter name="operatingSystem" value="Mac"></parameter>
     <parameter name="urlPath" value="http://localhost:12/orangehrm/web/index.php/auth/login"></parameter>
     <test name="Run on FIREFOX browser">
         <parameter name="browserName" value="Firefox"></parameter>
@@ -14,24 +15,24 @@
         </classes>
     </test>
 
-<!--    <test name="Run on CHROME browser">-->
-<!--        <parameter name="browserName" value="Chrome"></parameter>-->
-<!--        <classes>-->
-<!--            <class name="orangehrm.Login_04_PageObject"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Run on CHROME browser">
+        <parameter name="browserName" value="Chrome"></parameter>
+        <classes>
+            <class name="orangehrm.Login_06_DynamicLocator_01"></class>
+        </classes>
+    </test>
 
-<!--    <test name="Run on EDGE browser">-->
-<!--        <parameter name="browserName" value="Edge"></parameter>-->
-<!--        <classes>-->
-<!--            <class name="orangehrm.Login_04_PageObject"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Run on EDGE browser">
+        <parameter name="browserName" value="Edge"></parameter>
+        <classes>
+            <class name="orangehrm.Login_06_DynamicLocator_01"></class>
+        </classes>
+    </test>
 
-<!--    <test name="Run on SAFARI browser">-->
-<!--        <parameter name="browserName" value="Safari"></parameter>-->
-<!--        <classes>-->
-<!--            <class name="orangehrm.Login_04_PageObject"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Run on SAFARI browser">
+        <parameter name="browserName" value="Safari"></parameter>
+        <classes>
+            <class name="orangehrm.Login_06_DynamicLocator_01"></class>
+        </classes>
+    </test>
 </suite>

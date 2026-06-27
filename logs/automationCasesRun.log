@@ -11,3 +11,206 @@
 22:15:46.703 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it6136]
 22:15:46.711 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
 22:15:48.494 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:14:51.567 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:14:51.640 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:14:52.982 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:14:54.983 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:14:55.888 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it8932
+23:14:55.976 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:15:00.305 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it8932|0051
+23:15:00.352 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:00.352 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it8932] but found [Raph]
+23:15:00.376 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:00.376 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it8932]
+23:15:00.390 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:15:02.321 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:15:03.738 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:15:03.911 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:15:05.139 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:15:06.055 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:15:06.884 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it6085
+23:15:07.000 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:15:11.001 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it6085|0052
+23:15:11.037 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:11.037 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it6085] but found [Raph]
+23:15:11.063 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:11.063 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it6085]
+23:15:11.083 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:15:13.039 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:15:14.221 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:15:14.437 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:15:15.646 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:15:16.507 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:15:17.357 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it8975
+23:15:17.468 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:15:21.484 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it8975|0053
+23:15:21.513 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:21.513 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it8975] but found [Raph]
+23:15:21.529 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:15:21.529 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it8975]
+23:15:21.544 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:15:23.567 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:21:14.067 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:21:14.115 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:21:15.341 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:21:16.234 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:21:17.048 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it4786
+23:21:17.088 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:21:21.330 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it4786|0054
+23:21:21.347 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:21.347 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it4786] but found [Raph]
+23:21:21.356 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:21.356 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it4786]
+23:21:21.362 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:21:23.176 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:21:24.542 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:21:24.705 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:21:25.789 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:21:26.692 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:21:27.472 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it3028
+23:21:27.553 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:21:31.564 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it3028|0055
+23:21:31.584 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:31.584 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it3028] but found [Raph]
+23:21:31.596 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:31.596 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it3028]
+23:21:31.606 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:21:33.843 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:21:35.021 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:21:35.220 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:21:36.375 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:21:37.232 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:21:38.016 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it6822
+23:21:38.094 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:21:42.343 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it6822|0056
+23:21:42.360 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:42.360 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it6822] but found [Raph]
+23:21:42.373 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:21:42.373 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it6822]
+23:21:42.381 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:21:44.521 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:33:44.557 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:33:44.599 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:33:45.791 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:33:46.661 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:33:47.487 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it800
+23:33:47.535 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:33:51.784 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it800|0057
+23:33:51.795 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:33:51.795 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it800] but found [Raph]
+23:33:51.803 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:33:51.803 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it800]
+23:33:51.811 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:33:53.623 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:33:54.968 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:33:55.135 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:33:56.226 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:33:57.086 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:33:57.872 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it1285
+23:33:57.952 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:34:01.943 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it1285|0058
+23:34:01.964 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:34:01.964 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it1285] but found [Raph]
+23:34:01.976 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:34:01.977 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it1285]
+23:34:01.986 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:34:03.934 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:34:05.023 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:34:05.188 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:34:06.267 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:34:07.147 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:34:07.963 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it2108
+23:34:08.043 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:34:12.305 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it2108|0059
+23:34:12.323 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:34:12.323 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it2108] but found [Raph]
+23:34:12.335 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:34:12.335 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it2108]
+23:34:12.344 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:34:14.274 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:34:15.396 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:34:15.563 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:37:27.407 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:37:27.451 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:37:28.528 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:37:29.389 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:37:30.214 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it585
+23:37:30.263 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:37:34.490 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it585|0060
+23:37:34.496 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:34.497 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it585] but found [Raph]
+23:37:34.502 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:34.502 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it585]
+23:37:34.656 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:37:36.291 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:37:37.520 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:37:37.675 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:37:38.775 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:37:39.653 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:37:40.496 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it5218
+23:37:40.575 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:37:44.563 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it5218|0061
+23:37:44.584 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:44.584 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it5218] but found [Raph]
+23:37:44.597 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:44.597 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it5218]
+23:37:44.606 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:37:46.531 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:37:47.339 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:37:47.502 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:37:48.570 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:37:49.415 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:37:50.172 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it7758
+23:37:50.251 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:37:54.263 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it7758|0062
+23:37:54.282 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:54.282 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it7758] but found [Raph]
+23:37:54.294 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:37:54.294 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it7758]
+23:37:54.303 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:37:56.212 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:37:57.346 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:37:57.511 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:38:27.536 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:38:43.778 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:38:43.816 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:38:44.945 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:38:45.817 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:38:46.650 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it3130
+23:38:46.697 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:38:50.957 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it3130|0063
+23:38:50.970 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:38:50.970 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it3130] but found [Raph]
+23:38:50.978 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:38:50.978 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it3130]
+23:38:50.985 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:38:52.780 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:38:53.932 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:38:54.079 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:38:55.166 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:38:56.051 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:38:56.847 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it9017
+23:38:56.921 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:39:00.913 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it9017|0064
+23:39:00.934 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:39:00.934 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it9017] but found [Raph]
+23:39:00.946 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:39:00.946 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it9017]
+23:39:00.955 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:39:02.907 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:39:03.726 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:39:03.886 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:39:04.989 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page
+23:39:05.845 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 04: Navigate to Add Employee page
+23:39:06.636 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 05: Enter FirstName and LastName with info: Raph|Wreck-it8289
+23:39:06.711 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 06: Navigate to Personal Details page
+23:39:10.926 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 07: Verify Employee info displayed: Raph|Wreck-it8289|0065
+23:39:10.946 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:39:10.946 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Wreck-it8289] but found [Raph]
+23:39:10.958 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - === FAILED ===
+23:39:10.958 [main] ERROR orangehrm.Login_06_DynamicLocator_01 - expected [Raph] but found [Wreck-it8289]
+23:39:10.967 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - === PASSED ===
+23:39:12.936 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - --------------------TC_02_EmployeeSwitchPage is completed--------------------
+23:39:14.073 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 01: Enter to Username and Password with info: raphadmin/UIOjkl123!@#
+23:39:14.236 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 02: Navigate to Dashboard page
+23:39:44.233 [main] INFO  orangehrm.Login_06_DynamicLocator_01 - NewEmployee - STEP 03: Navigate to Employee Search page

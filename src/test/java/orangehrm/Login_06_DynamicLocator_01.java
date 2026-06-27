@@ -20,6 +20,7 @@ import pageObjects.orangeHRM.editNavigation.DependentsPageObject;
 import pageObjects.orangeHRM.editNavigation.JobPageObject;
 import pageObjects.orangeHRM.editNavigation.PersonalDetailPageObject;
 
+import java.io.IOException;
 import java.util.Random;
 
 @Slf4j
@@ -30,11 +31,11 @@ public class Login_06_DynamicLocator_01 extends BaseTest {
     String adminUsername, adminPassword, userFirstName, userLastName;
 
 
-        @Parameters({"browserName", "urlPath"})
+        @Parameters({"operatingSystem", "browserName", "urlPath"})
         @BeforeClass
-        public void beforeClass(String browserName, String urlPath){
+        public void beforeClass(String operatingSystem, String browserName, String urlPath) throws IOException {
             this.urlPath = urlPath;
-            driver = getBrowserDriver(browserName, urlPath);
+            driver = getBrowserDriver(operatingSystem, browserName, urlPath);
 
             adminUsername = "raphadmin";
             adminPassword = "UIOjkl123!@#";
